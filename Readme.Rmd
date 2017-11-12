@@ -1,0 +1,33 @@
+---
+title: "Readme"
+author: "Chad Salinas"
+date: "11/11/2017"
+output: html_document
+---
+
+## Plot by Number of Rounds
+
+### Choose Number of Golf Rounds
+1. Move the slider to choose the number of golf rounds you think will be played in a year.      
+2. This will result in a prediction of the size of the golf market to show in the plot.  
+### Choose Which Type of Plot
+1.  Super Scatter (default) is a plot that shows a confidence interval around the fitted  line.    
+2.  Basic Scatter is just a basic scatter plot with no confidence interval.  
+
+### Save the State Bookmark
+1.  Saves the state of your current plot by giving you an URL to copy and paste  
+
+
+
+## Plot by Participation
+
+### Choose Number of Golf Rounds
+1. Move the slider to choose the number golf participants for a year.      
+2. This will result in a prediction of the size of the golf market to show in the plot.  
+### Choose Which Type of Plot
+1.  Super Scatter (default) is a plot that shows a confidence interval around the fitted  line.    
+2.  Basic Scatter is just a basic scatter plot with no confidence interval.  
+
+### Save the State Bookmark
+1.  Saves the state of your current plot by giving you an URL to copy and paste
+
